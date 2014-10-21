@@ -38,6 +38,7 @@ gem 'spring',        group: :development
 # gem 'debugger', group: [:development, :test]
 gem 'bower-rails'
 gem 'foreman'
+gem 'angular-rails-templates'
 
 group :production, :staging do
   gem 'rails_12factor'
